@@ -2,8 +2,6 @@
 
 # Automotive 77GHz FMCW MIMO Radar
 
-This repository contains a MATLAB simulation of an automotive 77 GHz FMCW MIMO radar system. The project demonstrates how modern automotive radars estimate range, velocity, and angle of arrival (AoA) using signal processing techniques.
-
 ## Overview
 
 The radar operates at 77 GHz, the standard frequency band for automotive and ADAS applications. A TDM-MIMO configuration is used to form a 16-element virtual uniform linear array, enabling high-resolution angle estimation.
